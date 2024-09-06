@@ -1,0 +1,6 @@
+
+*.exe
+
+configs/.env
+
+logs/

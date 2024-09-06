@@ -1,0 +1,12 @@
+{
+	"choose_language": "Tiếng Việt",
+	"Back to main": "Quay lại trang chính",
+	"Your Information": "Thông tin của bạn",
+	"Help": "Trợ giúp",
+	"Choosing another language": "Chọn ngôn ngữ khác",
+	"This is a clean architecture telegram bot in Golang!": "Đây là một bot telegram theo kiến trúc clean viết bằng Golang!",
+	"Telegram ID: {telegramID}\nUsername: {username}\nFirstname: {firstname}\nLastname: {lastname}\nLanguage: {language}": "Telegram ID: {telegramID}\nTên người dùng: {username}\nTên: {firstname}\nHọ: {lastname}\nNgôn ngữ: {language}",
+	"Choose a language:": "Chọn ngôn ngữ:",
+	"Welcome {firstname}!": "Chào mừng {firstname}!",
+	"Enter a valid message or command.": "Nhập một tin nhắn hoặc lệnh hợp lệ."
+}

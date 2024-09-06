@@ -1,0 +1,1 @@
+nodemon --watch . --ext go --exec "go build && blitzbot.exe serve" --watch "src"
